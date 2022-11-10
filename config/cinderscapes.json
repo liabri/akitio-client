@@ -1,0 +1,11 @@
+{
+  "biomes": {
+    "enableAshyShoals": false,
+    "enableBlackstoneShales": false,
+    "enableLuminousGrove": false,
+    "enableQuartzCavern": false
+  },
+  "enableAshFall": true,
+  "easterEggs": false,
+  "polypiteLuminance": 4
+}

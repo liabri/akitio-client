@@ -1,0 +1,17 @@
+{
+  "scenario": "fabric",
+  "components": {
+    "net.fabricmc": {
+      "version": "0.14.9"
+    },
+    "java": {
+      "path": "java",
+      "arguments": null
+    },
+    "net.minecraft": {
+      "version": "1.19.2"
+    }
+  },
+  "wrapper": null,
+  "prelaunch_cmds": null
+}

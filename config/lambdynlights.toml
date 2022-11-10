@@ -1,0 +1,144 @@
+# LambDynamicLights configuration.
+# The dynamic lights mode
+mode = "fancy"
+
+# Light sources settings.
+[light_sources]
+	# Enables water-sensitive light sources check. This means that water-sensitive items will not light up when submerged in water.
+	water_sensitive_check = true
+	# Enable block entities light source.
+	block_entities = true
+	# Enable entities light source.
+	entities = true
+	# TNT lighting mode. May be off, simple or fancy.
+	tnt = "off"
+	# Creeper lighting mode. May be off, simple or fancy.
+	creeper = "simple"
+
+	[light_sources.settings]
+
+		[light_sources.settings.entities]
+
+			[light_sources.settings.entities.minecraft]
+				panda = true
+				axolotl = true
+				bee = true
+				egg = true
+				arrow = true
+				cow = true
+				pig = true
+				allay = true
+				skeleton = true
+				llama = true
+				bat = true
+				frog = true
+				experience_bottle = true
+				rabbit = true
+				firework_rocket = true
+				armor_stand = true
+				drowned = true
+				experience_orb = true
+				dolphin = true
+				item = true
+				stray = true
+				turtle = true
+				salmon = true
+				wither_skeleton = true
+				wandering_trader = true
+				item_frame = true
+				vindicator = true
+				horse = true
+				minecart = true
+				leash_knot = true
+				evoker = true
+				glow_squid = true
+				glow_item_frame = false
+				squid = true
+				snowball = true
+				parrot = true
+				creeper = true
+				lightning_bolt = true
+				enderman = true
+				dragon_fireball = true
+				chicken = true
+				ravager = true
+				trader_llama = true
+				donkey = true
+				evoker_fangs = true
+				chest_minecart = true
+				tropical_fish = true
+				fox = true
+				slime = true
+				pillager = true
+				iron_golem = true
+				area_effect_cloud = true
+				endermite = true
+				cat = true
+				zombie = true
+				ender_pearl = true
+				sheep = true
+				fireball = true
+				player = true
+				pufferfish = true
+				illusioner = true
+				wither_skull = true
+				eye_of_ender = true
+				villager = true
+				wolf = true
+				skeleton_horse = true
+				fishing_bobber = true
+				zombie_villager = true
+				tnt_minecart = true
+				small_fireball = true
+				polar_bear = true
+				hopper_minecart = true
+				painting = true
+				cave_spider = true
+				cod = true
+				witch = true
+				spider = true
+
+			[light_sources.settings.entities.soulsweapons]
+				big_chungus = true
+				chaos_monarch = true
+				accursed_lord_boss = true
+				forlorn = true
+				soul_reaper_ghost = true
+				swordspear_entity = true
+
+			[light_sources.settings.entities.naturalist]
+				zebra = true
+				deer = true
+				rattlesnake = true
+				snail = true
+				canary = true
+				firefly = true
+				rhino = true
+				bluejay = true
+				coral_snake = true
+				snake = true
+				cardinal = true
+				lion = true
+				vulture = true
+				robin = true
+				boar = true
+				caterpillar = true
+				butterfly = true
+				giraffe = true
+				bear = true
+
+			[light_sources.settings.entities.charm]
+				coral_squid = true
+
+			[light_sources.settings.entities.miskatonicmysteries]
+				hastur_cultist = true
+
+			[light_sources.settings.entities.creatures_of_the_snow]
+				snow_trover = true
+				reindeer = true
+				snow_seal = true
+				penguin = true
+
+			[light_sources.settings.entities.artifacts]
+				mimic = true
+

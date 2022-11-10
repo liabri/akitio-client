@@ -1,0 +1,11 @@
+{
+  "biomes": {
+    "woodlands": false,
+    "desert_shrubland": false,
+    "lush_swamp": false,
+    "autumnal_woods": false,
+    "coniferous_forest": false,
+    "flatlands": false,
+    "snowy_coniferous_forest": false
+  }
+}

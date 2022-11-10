@@ -1,0 +1,10 @@
+[general]
+percentage = 5
+checkArmor = true
+[message]
+sendMessage = false
+messageColor = "YELLOW"
+[sound]
+playSound = true
+soundLocation = "minecraft:block.chain.break"
+volume = 1.0
