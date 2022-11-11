@@ -45,6 +45,7 @@ mode = "fancy"
 				salmon = true
 				wither_skeleton = true
 				wandering_trader = true
+				ocelot = true
 				item_frame = true
 				vindicator = true
 				horse = true
