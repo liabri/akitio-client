@@ -4,7 +4,8 @@
   "bookData": {
     "witcheroriginaddon:witcher_journal": {
       "viewedEntries": [
-        "witcheroriginaddon:crafting/chainmail"
+        "witcheroriginaddon:crafting/chainmail",
+        "witcheroriginaddon:signs_abilities/blade_oil"
       ],
       "bookmarks": [],
       "completedManualQuests": []
@@ -25,7 +26,8 @@
       "viewedEntries": [
         "victus:aspects/archery",
         "victus:basics/aspect_maintenance",
-        "victus:basics/introduction"
+        "victus:basics/introduction",
+        "victus:aspects/golden"
       ],
       "bookmarks": [],
       "completedManualQuests": []
