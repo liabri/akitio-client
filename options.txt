@@ -113,7 +113,17 @@ key_key.hotbar.8:key.mouse.5
 key_key.hotbar.9:key.mouse.4
 key_key.backslot.switch_backslot:key.keyboard.c
 key_key.backslot.switch_beltslot:key.keyboard.x
+key_create.keyinfo.toolmenu:key.keyboard.left.alt
+key_create.keyinfo.toolbelt:key.keyboard.left.alt
 key_key.entityculling.toggle:key.keyboard.unknown
+key_key.origins.ternary_active:key.keyboard.unknown
+key_key.origins.quaternary_active:key.keyboard.unknown
+key_key.origins.quinary_active:key.keyboard.unknown
+key_key.origins.senary_active:key.keyboard.unknown
+key_key.origins.septenary_active:key.keyboard.unknown
+key_key.origins.octonary_active:key.keyboard.unknown
+key_key.origins.nonary_active:key.keyboard.unknown
+key_key.origins.denary_active:key.keyboard.unknown
 key_key.fabrictailor.toggle_skin_gui:key.keyboard.backslash
 key_key.itemswapper.itemswitcher:key.keyboard.f
 key_key.lightwithin.activate_light:key.keyboard.v
