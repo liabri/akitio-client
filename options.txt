@@ -119,14 +119,14 @@ key_key.itemswapper.itemswitcher:key.keyboard.f
 key_key.lightwithin.activate_light:key.keyboard.v
 key_key.map_atlases.open_minimap:key.keyboard.m
 key_key.mcda.firetrail.toggle:key.keyboard.semicolon
-key_key.miskatonicmysteries.select_spell:key.keyboard.r
-key_key.miskatonicmysteries.cast:key.keyboard.f
+key_key.miskatonicmysteries.select_spell:key.keyboard.q
+key_key.miskatonicmysteries.cast:key.keyboard.r
 key_key.modmenu.open_menu:key.keyboard.unknown
 key_key.nyfsquiver.open_quiver:key.keyboard.b
 key_key.nyfsquiver.increase_slot:key.keyboard.right.bracket
 key_key.nyfsquiver.decrease_slot:key.keyboard.left.bracket
 key_key.origins.primary_active:key.keyboard.q
-key_key.origins.secondary_active:key.keyboard.unknown
+key_key.origins.secondary_active:key.keyboard.z
 key_key.origins.view_origin:key.keyboard.o
 key_playerex.key.screen:key.keyboard.h
 key_presencefootsteps.settings.key:key.keyboard.unknown
@@ -140,7 +140,7 @@ key_key.waila.toggle_liquid:key.keyboard.unknown
 key_key.waila.show_recipe_input:key.keyboard.unknown
 key_key.waila.show_recipe_output:key.keyboard.unknown
 key_Hide Name Tags:key.keyboard.f6
-soundCategory_master:0.0
+soundCategory_master:1.0
 soundCategory_music:0.06637949
 soundCategory_record:1.0
 soundCategory_weather:1.0

@@ -40,8 +40,8 @@ key_modifiers_key.itemswapper.itemswitcher:0,0,0
 key_modifiers_key.lightwithin.activate_light:0,0,0
 key_modifiers_key.map_atlases.open_minimap:0,0,0
 key_modifiers_key.mcda.firetrail.toggle:0,0,0
-key_modifiers_key.miskatonicmysteries.select_spell:0,0,0
-key_modifiers_key.miskatonicmysteries.cast:0,0,0
+key_modifiers_key.miskatonicmysteries.select_spell:0,0,1
+key_modifiers_key.miskatonicmysteries.cast:0,0,1
 key_modifiers_key.modmenu.open_menu:0,0,0
 key_modifiers_key.nyfsquiver.open_quiver:0,0,0
 key_modifiers_key.nyfsquiver.increase_slot:0,0,0
