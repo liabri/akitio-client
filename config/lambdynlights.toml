@@ -135,6 +135,7 @@ mode = "fancy"
 
 			[light_sources.settings.entities.miskatonicmysteries]
 				hastur_cultist = true
+				bolt = true
 
 			[light_sources.settings.entities.creatures_of_the_snow]
 				snow_trover = true
