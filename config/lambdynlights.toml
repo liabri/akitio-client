@@ -32,6 +32,7 @@ mode = "fancy"
 				llama = true
 				bat = true
 				frog = true
+				husk = true
 				experience_bottle = true
 				rabbit = true
 				firework_rocket = true

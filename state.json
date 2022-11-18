@@ -6,7 +6,7 @@
     },
     "java": {
       "path": "java",
-      "arguments": null
+      "arguments": "-Xmx6G"
     },
     "net.minecraft": {
       "version": "1.19.2"
