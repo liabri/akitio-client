@@ -20,6 +20,7 @@ mode = "fancy"
 		[light_sources.settings.entities]
 
 			[light_sources.settings.entities.minecraft]
+				zombie_horse = true
 				panda = true
 				axolotl = true
 				bee = true
@@ -47,6 +48,7 @@ mode = "fancy"
 				wither_skeleton = true
 				wandering_trader = true
 				piglin_brute = true
+				goat = true
 				ocelot = true
 				item_frame = true
 				vindicator = true
@@ -75,6 +77,7 @@ mode = "fancy"
 				pillager = true
 				iron_golem = true
 				area_effect_cloud = true
+				zombified_piglin = true
 				endermite = true
 				cat = true
 				zombie = true
@@ -137,9 +140,15 @@ mode = "fancy"
 				hastur_cultist = true
 				bolt = true
 
+			[light_sources.settings.entities.medievalweapons]
+				netherite_francisca = true
+
 			[light_sources.settings.entities.creatures_of_the_snow]
 				snow_trover = true
+				leopard = true
 				reindeer = true
+				snikerbosh = true
+				beluga = true
 				snow_seal = true
 				penguin = true
 

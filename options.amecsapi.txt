@@ -37,14 +37,6 @@ key_modifiers_key.backslot.switch_beltslot:0,0,0
 key_modifiers_create.keyinfo.toolmenu:0,0,0
 key_modifiers_create.keyinfo.toolbelt:0,0,0
 key_modifiers_key.entityculling.toggle:0,0,0
-key_modifiers_key.origins.ternary_active:0,0,0
-key_modifiers_key.origins.quaternary_active:0,0,0
-key_modifiers_key.origins.quinary_active:0,0,0
-key_modifiers_key.origins.senary_active:0,0,0
-key_modifiers_key.origins.septenary_active:0,0,0
-key_modifiers_key.origins.octonary_active:0,0,0
-key_modifiers_key.origins.nonary_active:0,0,0
-key_modifiers_key.origins.denary_active:0,0,0
 key_modifiers_key.fabrictailor.toggle_skin_gui:0,0,0
 key_modifiers_key.itemswapper.itemswitcher:0,0,0
 key_modifiers_key.lightwithin.activate_light:0,0,0

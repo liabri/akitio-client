@@ -1,5 +1,13 @@
 {
-  "favorites": [],
+  "favorites": [
+    {
+      "stack": {
+        "item": "gofish:icicle_fish",
+        "amount": 1,
+        "type": "emi:item"
+      }
+    }
+  ],
   "recipe_defaults": {
     "added": [
       "minecraft:white_bed"

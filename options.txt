@@ -37,7 +37,7 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:7
 renderClouds:"fast"
-resourcePacks:["vanilla","Fabric Mods","resources/simplehats_hatdl.zip","itemswapper/default"]
+resourcePacks:["vanilla","Fabric Mods","resources/simplehats_hatdl.zip","Immersive Weathering Generated Pack","Supplementaries Generated Pack","file/simplyswords-vanilla-style.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
@@ -116,14 +116,6 @@ key_key.backslot.switch_beltslot:key.keyboard.x
 key_create.keyinfo.toolmenu:key.keyboard.unknown
 key_create.keyinfo.toolbelt:key.keyboard.unknown
 key_key.entityculling.toggle:key.keyboard.unknown
-key_key.origins.ternary_active:key.keyboard.unknown
-key_key.origins.quaternary_active:key.keyboard.unknown
-key_key.origins.quinary_active:key.keyboard.unknown
-key_key.origins.senary_active:key.keyboard.unknown
-key_key.origins.septenary_active:key.keyboard.unknown
-key_key.origins.octonary_active:key.keyboard.unknown
-key_key.origins.nonary_active:key.keyboard.unknown
-key_key.origins.denary_active:key.keyboard.unknown
 key_key.fabrictailor.toggle_skin_gui:key.keyboard.backslash
 key_key.itemswapper.itemswitcher:key.keyboard.f
 key_key.lightwithin.activate_light:key.keyboard.v
@@ -149,7 +141,7 @@ key_key.waila.toggle_liquid:key.keyboard.unknown
 key_key.waila.show_recipe_input:key.keyboard.unknown
 key_key.waila.show_recipe_output:key.keyboard.unknown
 key_Hide Name Tags:key.keyboard.f6
-soundCategory_master:1.0
+soundCategory_master:0.5425158
 soundCategory_music:0.019406628
 soundCategory_record:1.0
 soundCategory_weather:1.0
