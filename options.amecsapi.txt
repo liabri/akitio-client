@@ -52,9 +52,6 @@ key_modifiers_key.origins.secondary_active:0,0,0
 key_modifiers_key.origins.view_origin:0,0,0
 key_modifiers_playerex.key.screen:0,0,0
 key_modifiers_presencefootsteps.settings.key:0,0,0
-key_modifiers_key.glitchifyed.quick_elytra.toggle_equip:0,0,0
-key_modifiers_key.glitchifyed.quick_elytra.equip_totem:0,0,0
-key_modifiers_key.glitchifyed.quick_elytra.open_config:0,0,0
 key_modifiers_key.spyglass-improvements.use:0,0,0
 key_modifiers_key.waila.config:0,0,0
 key_modifiers_key.waila.show_overlay:0,0,0

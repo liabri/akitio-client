@@ -37,7 +37,7 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:7
 renderClouds:"fast"
-resourcePacks:["vanilla","Fabric Mods","resources/simplehats_hatdl.zip","Immersive Weathering Generated Pack","Supplementaries Generated Pack","file/simplyswords-vanilla-style.zip"]
+resourcePacks:["vanilla","Fabric Mods","resources/simplehats_hatdl.zip","Immersive Weathering Generated Pack","Supplementaries Generated Pack"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
@@ -131,9 +131,6 @@ key_key.origins.secondary_active:key.keyboard.tab
 key_key.origins.view_origin:key.keyboard.o
 key_playerex.key.screen:key.keyboard.unknown
 key_presencefootsteps.settings.key:key.keyboard.unknown
-key_key.glitchifyed.quick_elytra.toggle_equip:key.keyboard.z
-key_key.glitchifyed.quick_elytra.equip_totem:key.keyboard.caps.lock
-key_key.glitchifyed.quick_elytra.open_config:key.keyboard.unknown
 key_key.spyglass-improvements.use:key.keyboard.left.control
 key_key.waila.config:key.keyboard.unknown
 key_key.waila.show_overlay:key.keyboard.unknown
