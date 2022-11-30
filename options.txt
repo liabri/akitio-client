@@ -4,7 +4,7 @@ autoSuggestions:true
 chatColors:true
 chatLinks:true
 chatLinksPrompt:true
-enableVsync:true
+enableVsync:false
 entityShadows:true
 forceUnicodeFont:false
 discrete_mouse_scroll:false
@@ -20,28 +20,28 @@ toggleCrouch:false
 toggleSprint:false
 darkMojangStudiosBackground:false
 hideLightningFlashes:false
-mouseSensitivity:0.43276779675968124
+mouseSensitivity:0.4797406568849423
 fov:0.75
 screenEffectScale:1.0
 fovEffectScale:0.35172443460756136
 darknessEffectScale:1.0
 gamma:1.0
-renderDistance:5
+renderDistance:9
 simulationDistance:5
 entityDistanceScaling:0.5
 guiScale:3
 particles:1
-maxFps:120
+maxFps:60
 graphicsMode:0
 ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:7
 renderClouds:"fast"
-resourcePacks:["vanilla","Fabric Mods","resources/simplehats_hatdl.zip","Immersive Weathering Generated Pack","Supplementaries Generated Pack"]
+resourcePacks:["vanilla","Fabric Mods","resources/simplehats_hatdl.zip","Immersive Weathering Generated Pack","Supplementaries Generated Pack","file/swejqa"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
-soundDevice:""
+soundDevice:"WH-CH710N"
 chatVisibility:0
 chatOpacity:1.0
 chatLineSpacing:0.0
@@ -73,7 +73,7 @@ hideMatchedNames:true
 joinedFirstServer:true
 hideBundleTutorial:false
 syncChunkWrites:false
-showAutosaveIndicator:true
+showAutosaveIndicator:false
 allowServerListing:true
 chatPreview:0
 onlyShowSecureChat:false
@@ -117,15 +117,11 @@ key_create.keyinfo.toolmenu:key.keyboard.unknown
 key_create.keyinfo.toolbelt:key.keyboard.unknown
 key_key.entityculling.toggle:key.keyboard.unknown
 key_key.fabrictailor.toggle_skin_gui:key.keyboard.backslash
-key_key.itemswapper.itemswitcher:key.keyboard.f
 key_key.lightwithin.activate_light:key.keyboard.v
 key_key.mcda.firetrail.toggle:key.keyboard.semicolon
 key_key.miskatonicmysteries.select_spell:key.keyboard.t
 key_key.miskatonicmysteries.cast:key.keyboard.r
 key_key.modmenu.open_menu:key.keyboard.unknown
-key_key.nyfsquiver.open_quiver:key.keyboard.b
-key_key.nyfsquiver.increase_slot:key.keyboard.right.bracket
-key_key.nyfsquiver.decrease_slot:key.keyboard.left.bracket
 key_key.origins.primary_active:key.keyboard.q
 key_key.origins.secondary_active:key.keyboard.tab
 key_key.origins.view_origin:key.keyboard.o
@@ -138,7 +134,7 @@ key_key.waila.toggle_liquid:key.keyboard.unknown
 key_key.waila.show_recipe_input:key.keyboard.unknown
 key_key.waila.show_recipe_output:key.keyboard.unknown
 key_Hide Name Tags:key.keyboard.f6
-soundCategory_master:0.5425158
+soundCategory_master:0.51711625
 soundCategory_music:0.019406628
 soundCategory_record:1.0
 soundCategory_weather:1.0
