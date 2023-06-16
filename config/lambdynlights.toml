@@ -10,6 +10,7 @@ mode = "fancy"
 	block_entities = true
 	# Enable entities light source.
 	entities = true
+	self = true
 	# TNT lighting mode. May be off, simple or fancy.
 	tnt = "off"
 	# Creeper lighting mode. May be off, simple or fancy.
@@ -27,6 +28,7 @@ mode = "fancy"
 				egg = true
 				arrow = true
 				cow = true
+				magma_cube = true
 				pig = true
 				allay = true
 				skeleton = true
@@ -53,6 +55,7 @@ mode = "fancy"
 				item_frame = true
 				vindicator = true
 				horse = true
+				phantom = true
 				minecart = true
 				leash_knot = true
 				evoker = true
@@ -87,6 +90,7 @@ mode = "fancy"
 				player = true
 				pufferfish = true
 				illusioner = true
+				potion = true
 				wither_skull = true
 				eye_of_ender = true
 				villager = true
@@ -132,6 +136,7 @@ mode = "fancy"
 				butterfly = true
 				giraffe = true
 				bear = true
+				elephant = true
 
 			[light_sources.settings.entities.charm]
 				coral_squid = true
@@ -139,6 +144,12 @@ mode = "fancy"
 			[light_sources.settings.entities.miskatonicmysteries]
 				hastur_cultist = true
 				bolt = true
+
+			[light_sources.settings.entities.betternether]
+				chair = true
+
+			[light_sources.settings.entities.origins]
+				enderian_pearl = true
 
 			[light_sources.settings.entities.medievalweapons]
 				netherite_francisca = true
@@ -151,6 +162,9 @@ mode = "fancy"
 				beluga = true
 				snow_seal = true
 				penguin = true
+
+			[light_sources.settings.entities.simplehats]
+				hatdisplay = true
 
 			[light_sources.settings.entities.artifacts]
 				mimic = true

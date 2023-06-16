@@ -3,10 +3,14 @@
   "nameColor": 553648127,
   "backgroundColor": -1,
   "backgroundOpacity": 0.4,
+  "nameplateHeight": 0.5,
+  "nameplateSize": -0.025,
   "showHealth": false,
   "showLevel": false,
   "showHostileOnly": false,
   "squaredDistance": 128.0,
+  "showNameplateIfObstructed": false,
+  "levelTitle": true,
   "excludedEntities": [
     "minecraft:ender_dragon",
     "minecraft:wither"

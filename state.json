@@ -5,13 +5,14 @@
       "version": "0.14.9"
     },
     "java": {
-      "path": "java",
-      "arguments": "-Xmx6G"
+      "path": "/usr/lib/jvm/java-17-openjdk/bin/java",
+      "arguments": "-Xmx6G -Dorg.lwjgl.glfw.libname=/usr/lib/libglfw.so"
     },
     "net.minecraft": {
       "version": "1.19.2"
     }
   },
   "wrapper": null,
+  "env_vars": ["DRI_PRIME=pci-0000_01_00_0", "__VK_LAYER_NV_optimus=NVIDIA_only", "__GLX_VENDOR_LIBRARY_NAME=nvidia"],
   "prelaunch_cmds": null
 }

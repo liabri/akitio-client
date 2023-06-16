@@ -476,5 +476,6 @@
       "murkweed [default: 44]": 44,
       "needlegrass [default: 45]": 45
     }
-  }
+  },
+  "budding_smaragdant_crystal [default: true]": true
 }

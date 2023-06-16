@@ -5,7 +5,19 @@
     "witcheroriginaddon:witcher_journal": {
       "viewedEntries": [
         "witcheroriginaddon:crafting/chainmail",
-        "witcheroriginaddon:signs_abilities/blade_oil"
+        "witcheroriginaddon:signs_abilities/blade_oil",
+        "witcheroriginaddon:weapons_armour/chainmail_set",
+        "witcheroriginaddon:weapons_armour/kaer_morhen_set",
+        "witcheroriginaddon:weapons_armour/relic_weapons_entry",
+        "witcheroriginaddon:weapons_armour/silver_sword_entry",
+        "witcheroriginaddon:weapons_armour/steel_sword_entry",
+        "witcheroriginaddon:crafting/dimeritium_ingot",
+        "witcheroriginaddon:crafting/enriched_dimeritium_ingot",
+        "witcheroriginaddon:crafting/violet_rose",
+        "witcheroriginaddon:crafting/tedd_sample",
+        "witcheroriginaddon:crafting/ladys_favour",
+        "witcheroriginaddon:crafting/elder_blood",
+        "witcheroriginaddon:contracts/contracts"
       ],
       "bookmarks": [],
       "completedManualQuests": []

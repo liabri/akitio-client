@@ -1,0 +1,18 @@
+{
+	"replaceableFluids": false,
+	"unpushableFluids": true,
+	"flowingFluidlogging": false,
+	"accurateFlowBlocking": true,
+	"automaticFluidlogging": true,
+	"automaticWaterlogging": false,
+	"onlyAcceptAllowedFluids": false,
+	"allowedFluidIds": [],
+	"allowedFluidModIds": [],
+	"deniedFluidIds": [],
+	"deniedFluidModIds": [],
+	"addedFluidloggableBlocks": [],
+	"addedFlowingFluidloggableBlocks": [],
+	"addedWaterloggableBlocks": [],
+	"removedFluidloggableBlocks": [],
+	"removedWaterloggableBlocks": []
+}
