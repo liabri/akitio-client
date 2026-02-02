@@ -1,10 +1,12 @@
 {
-  "fireflySpawnWeight": 8,
+  "fireflySpawnWeight": 500,
   "bluejaySpawnWeight": 8,
   "canarySpawnWeight": 8,
   "cardinalSpawnWeight": 8,
   "robinSpawnWeight": 8,
-  "butterflySpawnWeight": 6,
+  "finchSpawnWeight": 8,
+  "sparrowSpawnWeight": 8,
+  "butterflySpawnWeight": 20,
   "snailSpawnWeight": 5,
   "snakeSpawnWeight": 4,
   "coralSnakeSpawnWeight": 4,
@@ -12,7 +14,7 @@
   "bearSpawnWeight": 8,
   "deerSpawnWeight": 8,
   "rhinoSpawnWeight": 15,
-  "lionSpawnWeight": 15,
+  "lionSpawnWeight": 8,
   "elephantSpawnWeight": 10,
   "zebraSpawnWeight": 10,
   "giraffeSpawnWeight": 10,
@@ -29,5 +31,6 @@
   "forestRabbitSpawnWeight": 6,
   "forestFoxSpawnWeight": 6,
   "removeSavannaFarmAnimals": true,
-  "removeSwampFarmAnimals": true
+  "removeSwampFarmAnimals": true,
+  "removeForestPigs": true
 }

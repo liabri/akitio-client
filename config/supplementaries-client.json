@@ -1,4 +1,5 @@
 {
+  "#README": "This config file does not support comments. To see them configure it in-game using YACL or Cloth Config",
   "blocks": {
     "globe": {
       "random_world": true,
@@ -6,6 +7,9 @@
     },
     "notice_board": {
       "centered_text": true
+    },
+    "bunting": {
+      "fast_buntings": false
     },
     "clock_block": {
       "24h_format": true
@@ -45,14 +49,16 @@
         "alexsmobs:hummingbird"
       ]
     },
-    "wall_lantern": {
-      "fast_lanterns": false
-    },
-    "hanging_sign": {
-      "fast_signs": false
-    },
-    "bamboo_spikes": {
-      "populate_creative_tab": true
+    "hat_stand": {
+      "swing_physics": {
+        "frequency": 1.5,
+        "collision_considers_entity_hitbox": true,
+        "collision_inertia": 1.5,
+        "collision_force": 15.0,
+        "min_angle": 0.0,
+        "max_angle": 54.99998,
+        "damping": 1.625
+      }
     },
     "turn_table": {
       "turn_particles": true
@@ -67,12 +73,16 @@
   },
   "particles": {
     "turn_particle": {
-      "initial_color": "2a77ea",
-      "fade_color": "32befa"
+      "initial_color": "#002A77EA",
+      "fade_color": "#0032BEFA"
     }
   },
   "general": {
+    "no_optifine_warn_screen": false,
+    "no_amendments_screen": true,
+    "no_incompatible_mods_screen": false,
     "config_button": false,
+    "config_button_y_offset": 0,
     "tooltip_hints": true,
     "placeable_tooltips": true,
     "custom_configured_screen": true,
@@ -81,12 +91,11 @@
     "test3": 0.0
   },
   "tweaks": {
-    "brewing_stand_colors": true,
-    "crossbows_colors": true,
     "clock_right_click": true,
+    "projectile_weapon_overlay": true,
     "compass_right_click": false,
     "placeable_books_glint": false,
-    "placeable_books_colors": [
+    "placeable_books_random_colors": [
       "brown",
       "orange",
       "yellow",
@@ -99,14 +108,36 @@
     ],
     "banner_pattern_tooltip": true,
     "paintings_tooltip": true,
-    "mob_head_shaders": true
+    "sherds_tooltip": true,
+    "tooltip_image_size": 80,
+    "mob_head_shaders": true,
+    "send_chat_on_death": true,
+    "colored_maps": {
+      "tinted_blocks_on_maps": true,
+      "tall_grass_color": true,
+      "accurate_colors": false
+    }
   },
   "items": {
     "slingshot": {
       "overlay": true,
       "stasis_block_outline": true,
-      "block_outline_color": "ffffff66",
+      "block_outline_color": "#FFFFFFFF",
       "projectile_scale": 0.5
+    },
+    "lunch_basket": {
+      "overlay": true
+    },
+    "altimeter": {
+      "click_action": true,
+      "extra_dimension_textures": [
+        "minecraft:the_nether",
+        "minecraft:the_end"
+      ],
+      "texture_precision_multiplier": 1
+    },
+    "cannonball": {
+      "3d_model": true
     },
     "quiver": {
       "armor_render_offset": -1.0,

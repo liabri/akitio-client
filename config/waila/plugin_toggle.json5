@@ -1,0 +1,12 @@
+{
+  "betternether:plugin": true,
+  "megane:create": true,
+  "waila:core": true,
+  "waila:vanilla": true,
+  "waila:harvest": true,
+  "waila:extra": true,
+  "waila:fabric": true,
+  "nameplate:plugin": true,
+  "megane:alloy-forgery": true,
+  "biomeswevegone:plugin": true
+}

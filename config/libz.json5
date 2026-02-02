@@ -1,4 +1,5 @@
 {
 	// Show inventory tabs
-	"inventoryButton": true
+	"inventoryButton": true,
+	"syncConfig": true
 }
